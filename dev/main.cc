@@ -1,7 +1,11 @@
+/**
+ * 
+ * REPOSITORIO DE GITHUB: https://github.com/DGarGlez/PR05-SSI-ULL-DGarGlez.git
+ * 
+ */
 #include <iostream>
 #include <cstdint>
 #include <bitset>
-
 
 // Multiplicación en AES con módulo x^8 + x^4 + x^3 + x + 1 (0x1B)
 /**
